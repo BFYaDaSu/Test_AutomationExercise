@@ -1,0 +1,18 @@
+{
+  "Data": {
+    "FirstName": "TestFN",
+    "LastName": "TestLN",
+    "Email": "TestUser99@gmail.com",
+    "Password": "Password",
+    "Number": "613-248-7640"
+  },
+  "checkPage": {
+    "Register": "New User Signup!",
+    "RegisterSuccess": "Account Created!",
+    "DeleteAccount": "Account Deleted!"
+  },
+  "IncorrectData": {
+    "Email": "IncorrectData@gmail.com",
+    "Password": "IncorrectPassword"
+  }
+}
